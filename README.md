@@ -1,0 +1,2 @@
+# Computer-Interface-Programming
+Computer interface serves as a layer between the end user and the technical functionality of a computer system.  A good interface design ensures the ease of use for any computer systems.  This course will enable students to participate in the design as well as development of a system.  It incorporates the essential concepts of a well-planned system that emphasis on the user interface design.
